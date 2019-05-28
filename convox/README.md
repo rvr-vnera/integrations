@@ -1,4 +1,4 @@
-#Convox data collector
+# Convox data collector
 
 This script collects the data from convox.
 
